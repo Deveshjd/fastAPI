@@ -163,15 +163,29 @@ The API also generates a health verdict based on the calculated BMI.
 
 ---
 
-## 📷 FastAPI Documentation
+## 📸 API Documentation
 
-Once the server is running, visit
+### Swagger UI
 
-```
-http://127.0.0.1:8000/docs
-```
+![Swagger UI](images/docs.png)
 
-to test all endpoints directly from the browser.
+---
+
+### View All Patients
+
+![GET Request](images/view.png)
+
+---
+
+### Create Patient
+
+![POST Request](images/create.png)
+
+---
+
+### Delete Patient data
+
+![JSON Storage](images/delete.png)
 
 ---
 
